@@ -1,14 +1,20 @@
-import numpy as np
+from random import randint
+import time
 
-array_sizes = np.random.choice(range(3, 11), size=5, replace=False)  #1~10 사이
-arrays = []
+array = []
+for _ in range(10000):
+    array.append(randint(1,100))
 
-for size in array_sizes:
-    array = np.random.randint(1, 11, size=size)  # 1~10 사이 값
-    array.sort()
-    arrays.append(array)
+start_time = time.time()
 
-# Print the arrays
-# for i, array in enumerate(arrays):
-#     print(f"Array {i+1}: {array}")
-print(array_sizes)
+for i in range(len(array)):
+    min_index = i
+    for j in range(i+1,len(array)):
+        if array[min_index] > array[j]:
+            min_index = j
+        array[i], array[min_index] = array[min_index],array[i]
+
+end_time = time.time()
+
+print("선택정렬:",end_time-start_time)
+
