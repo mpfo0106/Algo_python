@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99ce19e8-d43f-4b43-aae7-96912df2effb" name="Changes" comment="추가">
-      <change afterPath="$PROJECT_DIR$/programmers/PG_완주하지_못한_선수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/SWEA_1244_2일차_최대상금.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/PG_폰켓몬.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -262,7 +261,7 @@
       <workItem from="1699959449869" duration="1676000" />
       <workItem from="1699984809347" duration="555000" />
       <workItem from="1700013838449" duration="15675000" />
-      <workItem from="1700039997527" duration="1538000" />
+      <workItem from="1700039997527" duration="2409000" />
     </task>
     <task id="LOCAL-00001" summary="추가">
       <created>1689428169156</created>
