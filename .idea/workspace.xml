@@ -2,8 +2,105 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99ce19e8-d43f-4b43-aae7-96912df2effb" name="Changes" comment="추가">
-      <change afterPath="$PROJECT_DIR$/programmers/PG_폰켓몬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/PG_전화번호목록.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/this_is_coding_test/dfs_bfs/BFS_예제.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BOJ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BOJ.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/BOJ1000.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/BOJ_10250_호텔호수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/BOJ_10818.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/BOJ_1085.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/BOJ_10989_수정렬3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/BOJ_1110_더하기사이클.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/BOJ_1152_stringSplit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/BOJ_1157_딕셔너리_중복개수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/BOJ_2231_브루트포스.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/BOJ_2292_벌집.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/BOJ_2439.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/BOJ_2577.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/BOJ_2609_최대공약수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/BOJ_2675.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/BOJ_2775_부녀회장.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/BOJ_2798_블랙잭.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/BOJ_2908_배열역순.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/BOJ_2920.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/BOJ_3052_set이용.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/BOJ_4153.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gold/BOJ_10026_적록색약.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gold/BOJ_11404_플로이드.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gold/BOJ_13549_숨바꼭질3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gold/BOJ_1504_특정한최단경로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gold/BOJ_1753_최단경로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gold/BOJ_7576_토마토.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_1003_피보나치함수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_1012_유기농배추.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_10828_스택.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_11399_ATM.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_11659_구간합구하기4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_11726_2xn타일링.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_11727_2xn 타일링2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_1181_단어정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_1260_DFS와BFS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_13305_주유소.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_1463_1로만들기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_14940_쉬운최단거리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_1541_잃어버린괄호.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_1620_나는야포켓몬마스터이다솜.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_17219_비밀번호찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_17626_Four Squares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_18870_좌표압축.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_1927_최소힙.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_1929_소수구하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_1931_회의실배정.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_1978_소수찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_2579_계단오르기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_2606_바이러스.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_2630_색종이만들기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_2751_수정렬2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_2839.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_2869_달팽이.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_9012_괄호.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_9095_1,2,3더하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_9375_패션왕신해빈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/BOJ_9461_파도반수열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/DP_실전문제_2_1로만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/DP_실전문제_2_1로만들기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/DP_실전문제_3_개미전사.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/DP_실전문제_3_개미전사.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/DP_실전문제_4_바닥공사.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/DP_실전문제_4_바닥공사.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/DP_실전문제_5_효율적인화폐구성.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/DP_실전문제_5_효율적인화폐구성.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/greedy_기출_1_모험가길드.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/greedy_기출_1_모험가길드.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/greedy_기출_2_곱하기혹은더하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/greedy_기출_2_곱하기혹은더하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/greedy_기출_3_문자열뒤집기.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/greedy_기출_3_문자열뒤집기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/greedy_기출_4_만들수없는금액.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/greedy_기출_4_만들수없는금액.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/greedy_실전문제_2_큰수의법칙.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/greedy_실전문제_2_큰수의법칙.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/greedy_실전문제_3_숫자카드게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/greedy_실전문제_3_숫자카드게임.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/greedy_실전문제_4_1일될때.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/greedy_실전문제_4_1일될때.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/quickSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/quickSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/계수정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/계수정렬.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/구현_실전문제_2_왕실의 나이트.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/구현_실전문제_2_왕실의 나이트.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/구현_실전문제_3_게임개발.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/구현_실전문제_3_게임개발.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/그래프_실전문제_2_팀결성.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/그래프_실전문제_2_팀결성.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/그래프_실전문제_3_도시분할계획.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/그래프_실전문제_3_도시분할계획.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/그래프_실전문제_4_커리큘럼.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/그래프_실전문제_4_커리큘럼.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/다익스트라.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/다익스트라.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/서로소 집합을 이용한 사이클 판별.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/서로소 집합을 이용한 사이클 판별.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/서로소집합.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/서로소집합.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/예제_3_1_거스름돈.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/예제_3_1_거스름돈.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/예제_4_1_상하좌우.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/예제_4_1_상하좌우.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/예제_4_2_시각.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/예제_4_2_시각.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/위상정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/위상정렬.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/이진탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/이진탐색.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/이진탐색_실전문제_2_부품찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/이진탐색_실전문제_2_부품찾기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/이진탐색_실전문제_3_떡볶이떡만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/이진탐색_실전문제_3_떡볶이떡만들기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/정렬_실전문제_2_위에서아래로.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/정렬_실전문제_2_위에서아래로.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/정렬_실전문제_3_성적이낮은순서로학생출력하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/정렬_실전문제_3_성적이낮은순서로학생출력하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/정렬_실전문제_4_두배열의원소교체.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/정렬_실전문제_4_두배열의원소교체.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/최단거리_실전문제_2_미래도시.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/최단거리_실전문제_2_미래도시.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/최단거리_실전문제_3_전보.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/최단거리_실전문제_3_전보.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/크루스칼.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/크루스칼.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/탐색_실전문제_3_음료수얼려먹기.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/탐색_실전문제_3_음료수얼려먹기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/탐색_실전문제_4_미로탈출.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/탐색_실전문제_4_미로탈출.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이취코/플로이드 워셜.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/플로이드 워셜.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,31 +142,110 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kangjoon/WORKSPACE/PYTHON/BOJ&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kangjoon/WORKSPACE/PYTHON/algo&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/boj" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/gold" />
       <recent name="$PROJECT_DIR$/silver" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.PG_완주하지_못한_선수">
-    <configuration name="BOJ_18870_좌표압축" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BOJ" />
+  <component name="RunManager" selected="Python.BFS_예제 (1)">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/silver" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/silver/BOJ_18870_좌표압축.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="실전문제3_음료수얼려먹기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이취코/dfs_bfs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/실전문제3_음료수얼려먹기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BFS_예제 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/this_is_coding_test/dfs_bfs" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/this_is_coding_test/dfs_bfs/BFS_예제.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BFS_예제" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이취코/dfs_bfs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이취코/dfs_bfs/BFS_예제.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +255,7 @@
       <method v="2" />
     </configuration>
     <configuration name="PG_완주하지_못한_선수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BOJ" />
+      <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -100,30 +276,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SWEA_1206_1일차_View" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BOJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swea" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea/SWEA_1206_1일차_View.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="SWEA_1244_2일차_최대상금" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BOJ" />
+      <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -144,20 +298,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="greedy_기출_3_문자열뒤집기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BOJ" />
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이취코" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이취코/greedy_기출_3_문자열뒤집기.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,13 +320,106 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BFS_예제 (1)" />
+        <item itemvalue="Python.BFS_예제" />
+        <item itemvalue="Python.실전문제3_음료수얼려먹기" />
         <item itemvalue="Python.PG_완주하지_못한_선수" />
         <item itemvalue="Python.SWEA_1244_2일차_최대상금" />
-        <item itemvalue="Python.SWEA_1206_1일차_View" />
-        <item itemvalue="Python.BOJ_18870_좌표압축" />
-        <item itemvalue="Python.greedy_기출_3_문자열뒤집기" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +508,14 @@
       <workItem from="1699959449869" duration="1676000" />
       <workItem from="1699984809347" duration="555000" />
       <workItem from="1700013838449" duration="15675000" />
-      <workItem from="1700039997527" duration="2409000" />
+      <workItem from="1700039997527" duration="3310000" />
+      <workItem from="1700072709347" duration="159000" />
+      <workItem from="1700321721817" duration="2474000" />
+      <workItem from="1700332774309" duration="2132000" />
+      <workItem from="1700335144797" duration="19000" />
+      <workItem from="1700356832320" duration="2728000" />
+      <workItem from="1700392053666" duration="40000" />
+      <workItem from="1700392096779" duration="39000" />
     </task>
     <task id="LOCAL-00001" summary="추가">
       <created>1689428169156</created>
@@ -298,24 +552,29 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/이취코/예제_4_1_상하좌우.py</url>
+          <url>file://$PROJECT_DIR$/this_is_coding_test/예제_4_1_상하좌우.py</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/이취코/이진탐색_실전문제_3_떡볶이떡만들기.py</url>
+          <url>file://$PROJECT_DIR$/this_is_coding_test/이진탐색_실전문제_3_떡볶이떡만들기.py</url>
           <line>8</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/이취코/최단거리_실전문제_3_전보.py</url>
+          <url>file://$PROJECT_DIR$/this_is_coding_test/최단거리_실전문제_3_전보.py</url>
           <line>24</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/gold/BOJ_13549_숨바꼭질3.py</url>
+          <url>file://$PROJECT_DIR$/boj/gold/BOJ_13549_숨바꼭질3.py</url>
           <line>25</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/this_is_coding_test/dfs_bfs/BFS_예제.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -331,6 +590,7 @@
     <SUITE FILE_PATH="coverage/BOJ$BOJ_7576_.coverage" NAME="BOJ_7576_토마토 Coverage Results" MODIFIED="1689596454585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gold" />
     <SUITE FILE_PATH="coverage/BOJ$_4_1_.coverage" NAME="예제_4_1_상하좌우 Coverage Results" MODIFIED="1690617810925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이취코" />
     <SUITE FILE_PATH="coverage/BOJ$BOJ_1504_.coverage" NAME="BOJ_1504_특정한최단경로 Coverage Results" MODIFIED="1692292232041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gold" />
+    <SUITE FILE_PATH="coverage/BOJ$BFS_.coverage" NAME="BFS_예제 Coverage Results" MODIFIED="1700391362492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이취코/dfs_bfs" />
     <SUITE FILE_PATH="coverage/_20193449__cv2_py$BOJ_1012_.coverage" NAME="BOJ_1012_유기농배추 Coverage Results" MODIFIED="1688470686315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/silver" />
     <SUITE FILE_PATH="coverage/BOJ$BOJ_1753_.coverage" NAME="BOJ_1753_최단경로 Coverage Results" MODIFIED="1692200022950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/silver" />
     <SUITE FILE_PATH="coverage/BOJ$.coverage" NAME="다익스트라 Coverage Results" MODIFIED="1692198848656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이취코" />
@@ -346,6 +606,7 @@
     <SUITE FILE_PATH="coverage/BOJ$BOJ_10026_.coverage" NAME="BOJ_10026_적록색약 Coverage Results" MODIFIED="1685512104979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gold" />
     <SUITE FILE_PATH="coverage/BOJ$BOJ_1463_1.coverage" NAME="BOJ_1463_1로만들기 Coverage Results" MODIFIED="1683452046801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/silver" />
     <SUITE FILE_PATH="coverage/BOJ$BOJ_2579_.coverage" NAME="BOJ_2579_계단오르기 Coverage Results" MODIFIED="1683460734244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/silver" />
+    <SUITE FILE_PATH="coverage/BOJ$3_.coverage" NAME="실전문제3_음료수얼려먹기 Coverage Results" MODIFIED="1700334025824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이취코/dfs_bfs" />
     <SUITE FILE_PATH="coverage/BOJ$BOJ_18870_.coverage" NAME="BOJ_18870_좌표압축 Coverage Results" MODIFIED="1700021417038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/silver" />
     <SUITE FILE_PATH="coverage/_20193449__cv2_py$BOJ_11726_2xn.coverage" NAME="BOJ_11726_2xn타일링 Coverage Results" MODIFIED="1687530628765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/silver" />
     <SUITE FILE_PATH="coverage/BOJ$BOJ_9375_.coverage" NAME="BOJ_9375_패션왕신해빈 Coverage Results" MODIFIED="1684840912003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/silver" />
