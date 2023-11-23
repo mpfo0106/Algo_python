@@ -17,8 +17,9 @@ def dfs(x, y):
         return True
     return False
 
+
 result = 0
 for i in range(N):
     for j in range(M):
-        if dfs(i,j) == True:
-            result+=1
+        if dfs(i, j) == True:
+            result += 1
