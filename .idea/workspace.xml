@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a86c148-d8c8-40d1-acb3-c18216f1a4c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/this_is_coding_test/dfs_bfs/17_경쟁적전염.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/this_is_coding_test/dfs_bfs/18_괄호변환.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imm.py" beforeDir="false" afterPath="$PROJECT_DIR$/imm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/this_is_coding_test/dfs_bfs/DFS_예제.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/dfs_bfs/DFS_예제.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/this_is_coding_test/dfs_bfs/bfs_예제_미로탈출.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/dfs_bfs/bfs_예제_미로탈출.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/this_is_coding_test/dfs_bfs/dfs_예제_음료수얼려먹기.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/dfs_bfs/dfs_예제_음료수얼려먹기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +41,7 @@
       <recent name="$PROJECT_DIR$/this_is_coding_test/dfs_bfs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.17_경쟁적전염">
+  <component name="RunManager" selected="Python.18_괄호변환">
     <configuration name="16_연구소" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algo_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BFS_예제" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="18_괄호변환" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algo_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +99,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/this_is_coding_test/dfs_bfs/BFS_예제.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/this_is_coding_test/dfs_bfs/18_괄호변환.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.18_괄호변환" />
         <item itemvalue="Python.17_경쟁적전염" />
         <item itemvalue="Python.imm" />
         <item itemvalue="Python.16_연구소" />
         <item itemvalue="Python.DFS_예제" />
-        <item itemvalue="Python.BFS_예제" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +177,12 @@
       <workItem from="1700673856117" duration="1000" />
       <workItem from="1700673860165" duration="1151000" />
       <workItem from="1700675604464" duration="1427000" />
-      <workItem from="1700738261168" duration="8808000" />
+      <workItem from="1700738261168" duration="9600000" />
+      <workItem from="1700795856901" duration="2000" />
+      <workItem from="1700814994570" duration="662000" />
+      <workItem from="1701004472229" duration="614000" />
+      <workItem from="1701005883039" duration="2326000" />
+      <workItem from="1701094734122" duration="2104000" />
     </task>
     <servers />
   </component>
@@ -203,20 +204,21 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/this_is_coding_test/dfs_bfs/17_경쟁적전염.py</url>
-          <line>76</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/this_is_coding_test/dfs_bfs/18_괄호변환.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Algo_python$17_.coverage" NAME="17_경쟁적전염 Coverage Results" MODIFIED="1700747668090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/dfs_bfs" />
+    <SUITE FILE_PATH="coverage/Algo_python$17_.coverage" NAME="17_경쟁적전염 Coverage Results" MODIFIED="1700747674827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/dfs_bfs" />
     <SUITE FILE_PATH="coverage/Algo_python$15__.coverage" NAME="15_특정거리의_도시찾기 Coverage Results" MODIFIED="1700579912114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/dfs_bfs" />
     <SUITE FILE_PATH="coverage/Algo_python$imm.coverage" NAME="imm Coverage Results" MODIFIED="1700675968637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algo_python$BFS_.coverage" NAME="BFS_예제 Coverage Results" MODIFIED="1700654471589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/dfs_bfs" />
     <SUITE FILE_PATH="coverage/Algo_python$_.coverage" NAME="다익스트라_예제 Coverage Results" MODIFIED="1700577973519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/최단경로" />
     <SUITE FILE_PATH="coverage/Algo_python$16_.coverage" NAME="16_연구소 Coverage Results" MODIFIED="1700656965558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/dfs_bfs" />
+    <SUITE FILE_PATH="coverage/Algo_python$18_.coverage" NAME="18_괄호변환 Coverage Results" MODIFIED="1701096698907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/dfs_bfs" />
     <SUITE FILE_PATH="coverage/Algo_python$DFS_.coverage" NAME="DFS_예제 Coverage Results" MODIFIED="1700655584187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/dfs_bfs" />
   </component>
 </project>
