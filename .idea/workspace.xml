@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a86c148-d8c8-40d1-acb3-c18216f1a4c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/this_is_coding_test/greedy/실전문제4_1이될때까지.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/this_is_coding_test/impl/실전문제2_왕실의나이트.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/this_is_coding_test/greedy/실전문제2_큰수의 법칙.py" beforeDir="false" afterPath="$PROJECT_DIR$/this_is_coding_test/greedy/실전문제2_큰수의 법칙.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,29 +41,7 @@
       <recent name="$PROJECT_DIR$/this_is_coding_test/dfs_bfs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.실전문제4_1이될때까지">
-    <configuration name="17_경쟁적전염" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algo_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/this_is_coding_test/dfs_bfs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/this_is_coding_test/dfs_bfs/17_경쟁적전염.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.실전문제2_왕실의나이트">
     <configuration name="18_괄호변환" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algo_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,6 +78,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/this_is_coding_test/greedy/실전문제2_큰수의 법칙.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="실전문제2_왕실의나이트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algo_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/this_is_coding_test/impl" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/this_is_coding_test/impl/실전문제2_왕실의나이트.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.실전문제2_왕실의나이트" />
         <item itemvalue="Python.실전문제4_1이될때까지" />
         <item itemvalue="Python.실전문제3_숫자카드게임" />
         <item itemvalue="Python.실전문제2_큰수의 법칙" />
         <item itemvalue="Python.18_괄호변환" />
-        <item itemvalue="Python.17_경쟁적전염" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +185,7 @@
       <workItem from="1701094734122" duration="2104000" />
       <workItem from="1701147047663" duration="3170000" />
       <workItem from="1701407858173" duration="600000" />
-      <workItem from="1701424405878" duration="4748000" />
+      <workItem from="1701424405878" duration="7773000" />
     </task>
     <servers />
   </component>
@@ -218,8 +217,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algo_python$17_.coverage" NAME="17_경쟁적전염 Coverage Results" MODIFIED="1700747674827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/dfs_bfs" />
     <SUITE FILE_PATH="coverage/Algo_python$15__.coverage" NAME="15_특정거리의_도시찾기 Coverage Results" MODIFIED="1700579912114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/dfs_bfs" />
-    <SUITE FILE_PATH="coverage/Algo_python$4_1.coverage" NAME="실전문제4_1이될때까지 Coverage Results" MODIFIED="1701431787085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/greedy" />
+    <SUITE FILE_PATH="coverage/Algo_python$4_1.coverage" NAME="실전문제4_1이될때까지 Coverage Results" MODIFIED="1701431831538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/greedy" />
     <SUITE FILE_PATH="coverage/Algo_python$imm.coverage" NAME="imm Coverage Results" MODIFIED="1700675968637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algo_python$2_.coverage" NAME="실전문제2_왕실의나이트 Coverage Results" MODIFIED="1701434873575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/impl" />
     <SUITE FILE_PATH="coverage/Algo_python$BFS_.coverage" NAME="BFS_예제 Coverage Results" MODIFIED="1700654471589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/dfs_bfs" />
     <SUITE FILE_PATH="coverage/Algo_python$3_.coverage" NAME="실전문제3_숫자카드게임 Coverage Results" MODIFIED="1701431096301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/greedy" />
     <SUITE FILE_PATH="coverage/Algo_python$_.coverage" NAME="다익스트라_예제 Coverage Results" MODIFIED="1700577973519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/최단경로" />
