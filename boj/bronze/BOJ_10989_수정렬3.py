@@ -3,7 +3,7 @@
 # li = []
 # for i in range(n):
 #     li.append(sys.stdin.readline().strip())
-# li.sort() #TODO sort쓰면 메모리 부족 뜬다
+# li.정렬() #TODO sort쓰면 메모리 부족 뜬다
 # for j in li:
 #     print(j)
 

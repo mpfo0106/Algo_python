@@ -23,7 +23,7 @@ parent = [i for i in range(N+1)]
 #     edges.append((cost,a,b))
 lines = [list(map(int,sys.stdin.readline().split())) for _ in range(M)]
 lines.sort(key=lambda x:x[2])
-#edges.sort()
+#edges.정렬()
 max_cost = 0
 # for edge in edges:
 #     cost,a,b = edge

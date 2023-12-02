@@ -25,4 +25,4 @@ lst.sort(key=lambda x:len(x))
 for i in lst:
     print(i)
 
-#TODO sort 의 lambda를 사용해서 정렬하자
+#TODO 정렬 의 lambda를 사용해서 정렬하자

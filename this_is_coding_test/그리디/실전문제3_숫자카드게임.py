@@ -17,4 +17,4 @@ for i in range(n):
     maxi = max(maxi, data[i][0])
 print(maxi)
 
-#TODO sort 안하고 min으로 바로 받아도돼
+#TODO 정렬 안하고 min으로 바로 받아도돼

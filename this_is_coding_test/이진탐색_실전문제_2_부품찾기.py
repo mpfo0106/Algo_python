@@ -1,5 +1,5 @@
 # import sys
-# def binary_search(array,start,end,target):
+# def 이진탐색(array,start,end,target):
 #     while start<=end:
 #         mid = (start + end) // 2
 #         if array[mid] == target:
@@ -14,11 +14,11 @@
 # store = list(map(int,sys.stdin.readline().split()))
 # m = int(sys.stdin.readline())
 # customer = list(map(int,sys.stdin.readline().split()))
-# store.sort()
+# store.정렬()
 # for item in customer:
 #     start = 0
 #     end = len(store) - 1
-#     isOk =binary_search(store,start,end, item)
+#     isOk =이진탐색(store,start,end, item)
 #     if isOk:
 #         print("yes")
 #     else:
