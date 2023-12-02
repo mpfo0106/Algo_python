@@ -14,7 +14,7 @@ def dfs(x, y):
         return False
     # 현재 노드를 아직 방문하지 않았다면
     if graph[x][y] == 0:
-        graph[x][x] = 1
+        graph[x][y] = 1
         dfs(x - 1, y)
         dfs(x + 1, y)
         dfs(x, y - 1)

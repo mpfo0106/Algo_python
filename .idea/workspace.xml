@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a86c148-d8c8-40d1-acb3-c18216f1a4c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/this_is_coding_test/dfs_bfs/X실전문제3_음료수얼려먹기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/this_is_coding_test/dfs_bfs/X실전문제4_미로탈출.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +186,7 @@
       <workItem from="1701147047663" duration="3170000" />
       <workItem from="1701407858173" duration="600000" />
       <workItem from="1701424405878" duration="8489000" />
-      <workItem from="1701494546181" duration="5895000" />
+      <workItem from="1701494546181" duration="7669000" />
     </task>
     <servers />
   </component>
