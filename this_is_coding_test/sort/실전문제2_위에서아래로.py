@@ -1,0 +1,8 @@
+# 수열을 내림차순
+
+n = int(input())
+arr = []
+for _ in range(n):
+    arr.append(int(input()))
+
+arr.sort(reverse=True)
