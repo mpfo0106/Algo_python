@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a86c148-d8c8-40d1-acb3-c18216f1a4c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/udemy1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/this_is_coding_test/최단경로/실전문제3_전보.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy_코테/udemy2.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy_코테/udemy2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,55 +39,12 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/udemy_코테" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/this_is_coding_test/dfs_bfs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.udemy2">
-    <configuration name="실전문제2_부품찾기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algo_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/this_is_coding_test/binary_search" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/this_is_coding_test/binary_search/실전문제2_부품찾기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="실전문제3_개미전사" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algo_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/this_is_coding_test/dp" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/this_is_coding_test/dp/실전문제3_개미전사.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.X실전문제3_전보">
     <configuration name="X실전문제2_미래도시" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algo_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,6 +59,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/this_is_coding_test/최단경로/X실전문제2_미래도시.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="X실전문제3_전보" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algo_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/this_is_coding_test/최단경로" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/this_is_coding_test/최단경로/X실전문제3_전보.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.X실전문제3_전보" />
         <item itemvalue="Python.udemy2" />
         <item itemvalue="Python.udemy1" />
         <item itemvalue="Python.udemy3" />
         <item itemvalue="Python.X실전문제2_미래도시" />
-        <item itemvalue="Python.실전문제3_개미전사" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +191,7 @@
       <workItem from="1701424405878" duration="8489000" />
       <workItem from="1701494546181" duration="16256000" />
       <workItem from="1701522340464" duration="16706000" />
-      <workItem from="1701763384967" duration="1551000" />
+      <workItem from="1701763384967" duration="6021000" />
     </task>
     <servers />
   </component>
@@ -239,11 +217,6 @@
           <line>58</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/udemy2.py</url>
-          <line>41</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -260,8 +233,8 @@
     <SUITE FILE_PATH="coverage/Algo_python$2_1.coverage" NAME="X실전문제2_1로만들기 Coverage Results" MODIFIED="1701523613305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/dp" />
     <SUITE FILE_PATH="coverage/Algo_python$2_.coverage" NAME="실전문제2_미래도시 Coverage Results" MODIFIED="1701534205803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/최단경로" />
     <SUITE FILE_PATH="coverage/Algo_python$.coverage" NAME="퀵소트 Coverage Results" MODIFIED="1701506218289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/sort" />
-    <SUITE FILE_PATH="coverage/Algo_python$3_.coverage" NAME="실전문제3_개미전사 Coverage Results" MODIFIED="1701524693472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/dp" />
     <SUITE FILE_PATH="coverage/Algo_python$udemy1.coverage" NAME="udemy1 Coverage Results" MODIFIED="1701764105217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algo_python$3_.coverage" NAME="실전문제3_전보 Coverage Results" MODIFIED="1701769722727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/최단경로" />
     <SUITE FILE_PATH="coverage/Algo_python$_.coverage" NAME="다익스트라_예제 Coverage Results" MODIFIED="1700577973519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/최단경로" />
     <SUITE FILE_PATH="coverage/Algo_python$18_.coverage" NAME="18_괄호변환 Coverage Results" MODIFIED="1701096698907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/dfs_bfs" />
     <SUITE FILE_PATH="coverage/Algo_python$DFS_.coverage" NAME="DFS_예제 Coverage Results" MODIFIED="1700655584187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/dfs_bfs" />
