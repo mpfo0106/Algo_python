@@ -24,7 +24,6 @@ def solution(answers):
     for i, item in enumerate(score):
         if max_score == item:
             answer.append(i + 1)
-    print(answer)
     return answer
 
 

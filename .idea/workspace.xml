@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a86c148-d8c8-40d1-acb3-c18216f1a4c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/level1/PG_모의고사.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/level2/PG_타켓넘버.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/level1/PG_모의고사.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/level1/PG_모의고사.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/programmers/level2/PG_게임맵최단거리.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/level2/PG_게임맵최단거리.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/level2/PG_모음사전.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/level2/PG_모음사전.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
       <recent name="$PROJECT_DIR$/this_is_coding_test/dfs_bfs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.PG_모의고사">
+  <component name="RunManager" selected="Python.PG_타켓넘버">
     <configuration name="BOJ_15649_N과M(1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algo_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,6 +83,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/level2/PG_게임맵최단거리.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PG_타켓넘버" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algo_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/level2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/level2/PG_타켓넘버.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,8 +181,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PG_모의고사" />
-        <item itemvalue="Python.PG_모음사전" />
+        <item itemvalue="Python.PG_타켓넘버" />
         <item itemvalue="Python.BOJ_15649_N과M(1)" />
         <item itemvalue="Python.PG_게임맵최단거리" />
         <item itemvalue="Python.X실전문제3_전보" />
@@ -198,7 +219,8 @@
       <workItem from="1702982955362" duration="6000" />
       <workItem from="1703055713759" duration="556000" />
       <workItem from="1703069465440" duration="11000" />
-      <workItem from="1703575348841" duration="14027000" />
+      <workItem from="1703575348841" duration="15382000" />
+      <workItem from="1703746916122" duration="13802000" />
     </task>
     <servers />
   </component>
@@ -245,7 +267,7 @@
     <SUITE FILE_PATH="coverage/Algo_python$udemy3.coverage" NAME="udemy3 Coverage Results" MODIFIED="1701584083011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algo_python$2_1.coverage" NAME="X실전문제2_1로만들기 Coverage Results" MODIFIED="1701523613305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/dp" />
     <SUITE FILE_PATH="coverage/Algo_python$2_.coverage" NAME="실전문제2_미래도시 Coverage Results" MODIFIED="1701534205803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/최단경로" />
-    <SUITE FILE_PATH="coverage/Algo_python$PG_.coverage" NAME="PG_모의고사 Coverage Results" MODIFIED="1703663084640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers/level1" />
+    <SUITE FILE_PATH="coverage/Algo_python$PG_.coverage" NAME="PG_타켓넘버 Coverage Results" MODIFIED="1703780728546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers/level2" />
     <SUITE FILE_PATH="coverage/Algo_python$.coverage" NAME="퀵소트 Coverage Results" MODIFIED="1701506218289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/sort" />
     <SUITE FILE_PATH="coverage/Algo_python$udemy1.coverage" NAME="udemy1 Coverage Results" MODIFIED="1701764105217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algo_python$3_.coverage" NAME="실전문제3_전보 Coverage Results" MODIFIED="1701770109101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/this_is_coding_test/최단경로" />
